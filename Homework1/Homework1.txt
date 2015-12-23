@@ -4,19 +4,19 @@
     <meta charset="UTF-8">
     <title>香港銅鑼灣，橋底辣蟹</title>
 </head>
-
-<body>
-    <h1>香港銅鑼灣，橋底辣蟹 (造訪日期:2015/08/03)</h1>
-    <!--標題底下有返回首頁連結-->
-    <a href="../Homework.html">回首頁 </a>
-    <br>
-    <br>
-    <!--網頁分成三部分-->
+<!--網頁分成三部分-->
     <ul>
         <li><a href="#section1">第一段：總店外觀</a></li>
         <li><a href="#section2">第二段：兩道菜經典菜介紹</a></li>
         <li><a href="#section3">第三段：價格偏高，嘗鮮過已足矣</a></li>
     </ul>
+<body>
+    <h1>香港銅鑼灣，橋底辣蟹 (造訪日期:2015/08/03)</h1>
+    <!--標題底下有返回首頁連結-->
+    <a href="../Index.html">回首頁 </a>
+    <br>
+    <br>
+    
     <div id="section1">
         <h3>第一段：總店外觀</h3>
         <!--圖片做超連結-->
