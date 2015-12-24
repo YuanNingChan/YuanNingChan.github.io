@@ -1,81 +1,77 @@
-    span {
-        padding-right: 50px;
-    }
-    
-    h3 {
-        padding-top: 70px;
-    }
-    
-    body {
-        padding-top: 70px;
-        background-repeat: no-repeat;
-        background-color: #f7f7f7;
-    }
-    
-    .nav a {
-        color: aliceblue;
-        font-size: 30px;
-        font-weight: bold;
-        padding: 10px 10px;
-        text-decoration: none;
-    }
-    
-    .nav li a:hover {
-        color: orangered
-    }
-    
-    .nav li {
-        display: inline;
-    }
-    
-    .jumbotron {
-        background-image: url(../Image/OH.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 600px;
-        /*會符合設定的大小去塞滿整個版面*/
-    }
-    
-    .jumbotron .container {
-        position: relative;
-        top: 100px;
-        left: 100px;
-    }
-    
-    .jumbotron h1 {
-        color: #fff;
-        font-size: 48px;
-        font-family: 'Shift', sans-serif;
-        font-weight: bold;
-    }
-    
-    .jumbotron p {
-        font-size: 28px;
-        color: #fff;
-    }
-    
-    .learn-more {
-        background-color: #f7f7f7;
-        /*灰底*/
-    }
-    
-    .learn-more h3 {
-        font-family: 'Shift', sans-serif;
-        font-size: 18px;
-        font-weight: bold;
-    }
-    
-    .learn-more a {
-        color: #00b0ff;
-        padding-left: 15px;
-        font-size: 20px;
-    }
-    
-    .learn-more p {
-        padding-left: 15px;
-        font-size: 18px;
-    }
-    
-    #myNavbar {
-        background-color: darkslategray;
-    }
+span {
+    padding-right: 50px;
+}
+
+h3 {
+    padding-top: 70px;
+}
+
+.nav a {
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    color: orangered
+}
+
+.nav li {
+    display: inline;
+}
+
+.jumbotron {
+    background-image: url(../Image/OH.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    /*會符合設定的大小去塞滿整個版面*/
+}
+
+.jumbotron .container {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 48px;
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 28px;
+    color: #fff;
+}
+
+.learn-more {
+    background-color: #f7f7f7;
+    /*灰底*/
+}
+
+.learn-more h3 {
+    font-family: 'Shift', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.learn-more a {
+    color: #00b0ff;
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.learn-more p {
+    padding-left: 15px;
+    font-size: 18px;
+}
+
+#myNavbar {
+    background-color: darkslategray;
+}
+
+#pageNavBar {}
